@@ -1,0 +1,21 @@
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\Data Access Layer.dll
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\Data Access Layer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\Data Access Layer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\Data Access Layer.pdb
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

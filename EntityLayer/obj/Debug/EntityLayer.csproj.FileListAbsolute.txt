@@ -1,0 +1,11 @@
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\obj\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\obj\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\EntityLayer\obj\Debug\EntityLayer.pdb

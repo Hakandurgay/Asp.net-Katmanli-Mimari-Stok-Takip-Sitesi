@@ -1,0 +1,9 @@
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\PROGRAMLAMA\c#\udemyooptemellerikatmanlımimarikursu\MYUdemyAsp.netKatmanliMimari\StokTakip\Data Access Layer\obj\Debug\Data Access Layer.pdb
